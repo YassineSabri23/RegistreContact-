@@ -1,0 +1,7 @@
+io\getarrays\contactapi\domain\Contact.class
+io\getarrays\contactapi\repo\ContactRepo.class
+io\getarrays\contactapi\resource\ContactResource.class
+io\getarrays\contactapi\service\ContactService.class
+io\getarrays\contactapi\config\CorsConfig.class
+io\getarrays\contactapi\constant\Constant.class
+io\getarrays\contactapi\Application.class
